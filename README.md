@@ -5,7 +5,7 @@
 This repository contains the replication and extension code for our empirical economics project. We extend [Feyrer, Mansur & Sacerdote (2017)](https://doi.org/10.1257/aer.20151326) — hereafter FMS — which estimates the average causal effect of new oil and gas production on local US wages using IV regression. Our extensions ask three questions the original paper cannot address:
 
 1. **Is the wage–fracking relationship linear?** Local polynomial regression reveals a hump-shaped treatment response.
-2. **Is the causal effect homogeneous across the wage-growth distribution?** IV quantile regression shows the contemporaneous effect is slightly larger at Q90 (~$94,000) than Q10 (~$86,000), but the lagged give-back is near zero at Q10 and ~−$37,000 at Q90 — so the net effect is largest for low-growth counties: a boom–bust asymmetry the mean conceals.
+2. **Is the causal effect homogeneous across the wage-growth distribution?** IV quantile regression shows the contemporaneous effect is slightly larger at Q90 (\~$94,000) than Q10 (\~$86,000), but the lagged give-back is near zero at Q10 and \~−$37,000 at Q90 — so the net effect is largest for low-growth counties: a boom–bust asymmetry the mean conceals.
 3. **Does fracking widen spatial wage inequality?** Unconditional RIF regression shows the 90th-percentile effect ($31,000 per million dollars of production) is over six times the median effect ($5,000).
 
 ---
