@@ -34,6 +34,7 @@ This repository contains the replication and extension code for our empirical ec
 │   ├── fig_np_3a_lpoly_total.png
 │   ├── fig_np_3b_lpoly_mining.png
 │   ├── fig_np_3c_lpoly_transport.png
+│   ├── fig_np_3d_lpoly_construction.png
 │   ├── fig_np_3e_lpoly_manufacturing.png
 │   ├── fig_np_3f_lpoly_educ.png
 │   ├── fig_np_3g_lpoly_services.png
@@ -45,8 +46,7 @@ This repository contains the replication and extension code for our empirical ec
 ├── paper/
 │   └── Mears_Iler_Canning_Fracking.pdf          # Final report
 ├── slides/
-│   └── non_para_empirical_project-2.pdf         # Presentation slides
-├── .gitignore
+│   └── Mears_Iler_Canning_Slides.pdf            # Presentation slides
 └── README.md
 ```
 
